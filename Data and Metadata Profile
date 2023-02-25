@@ -1,0 +1,83 @@
+URL of the dataset used: https://www.kaggle.com/datasets/anandhuh/latest-worldwide-vaccine-data
+What are the data?
+
+The dataset "Latest Worldwide Vaccine Data" contains information on worldwide vaccine distribution and usage. The data includes information on the number of vaccine doses administered, the number of confirmed cases, deaths and recovered cases, and the population of each country.
+
+ 
+
+Where do the data come from, i.e. what is their origin?
+
+The data originates from multiple sources, including the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC).
+
+ 
+
+Who are the key stakeholders for the data? Stakeholders could include the creators, users, managers, funders, or other relevant individuals/organizations?
+
+The key stakeholders for this data include the creators of the dataset (Anand), the users of the dataset (researchers and analysts), and the organizations that provided the data (WHO and CDC).
+
+ 
+
+How many data files are there? What do they contain? What file format are they?
+
+There is 1 data file in this dataset, and it contains information on vaccine distribution and usage by country. The file format is .csv (comma-separated values).
+
+ 
+
+Does the data set come with any usage restrictions? If so, what are they?
+
+The dataset does not come with any explicit usage restrictions, but it is recommended to include a citation when using the data.
+
+ 
+
+Is there any specific software required to open or analyze the data files?
+
+This dataset does not require any specific software to open or analyze the data files, as it is a simple .csv file that can be opened with any spreadsheet software such as Microsoft Excel or Google Sheets.
+
+ 
+
+Metadata
+
+ 
+
+What metadata does the data come with?
+
+The metadata that comes with the data includes information such as the source of the data, authors, data collection methodology, license, and last updated date. It also includes information about the data itself such as what are the column names in the dataset, what is the significance of each column, and what is the data about.
+
+ 
+
+Where is the metadata? E.g. is it in the data files, included in separate files, both?
+
+The metadata is provided separately as text within the landing page for the dataset on Kaggle. It is not included in the data files.
+
+ 
+
+How comprehensive is the metadata provided?
+
+The metadata provided is moderately comprehensive, it includes information about the purpose of the data, the data itself, and the variables in the dataset.
+
+ 
+
+Is the metadata structured according to any metadata standard?
+
+No, the metadata is not structured according to any metadata standard.
+
+ 
+
+How could the current data and/or metadata be enriched? In particular, what additional information could be provided to:  improve users' ability to discover the data set in the repository environment and assist somebody unfamiliar with the data to make use of the dataset for new purposes?
+
+The current data and metadata could be enriched in several ways to improve users’ ability to discover the dataset and to assist someone unfamiliar with the data to make use of the dataset for new purposes:
+
+Providing a more detailed and informative description of the data and its contents in the metadata. This could include information on limitations or uncertainties in the data, the data types in the dataset.
+Adding more contextual information about the data. This could include information on the historical background of the data, the political or social context in which the data was collected, and any relevant historical or current events that may have influenced the data.
+Adding more metadata fields to the dataset. This could include information such as keywords, data quality indicators, and data lineage information.
+Providing more detailed documentation on how to use the dataset. This could include information on how to clean, process, and analyze the data, as well as examples of how the data has been used in the past.
+Providing information about the future scope of work that can be done using the dataset or providing information on similar resources would also be very helpful.
+ 
+
+What publications have been written (if any) based on this dataset? Are any publications listed/provided with the data set?
+
+There weren’t any publications that have been written based on this specific dataset. The dataset does not appear to have any publications listed or provided with it. I couldn't find any publications that cite or reference the use of this dataset. However, it is possible that there may be publications that use this dataset that is not easily discoverable through a literature database or web search engine, as the dataset is relatively new and may not have been widely used yet.
+
+Reference:
+
+Latest worldwide vaccine data. (n.d.). https://www.kaggle.com/datasets/anandhuh/latest-worldwide-vaccine-data?resource=download
