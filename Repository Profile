@@ -1,0 +1,44 @@
+Link to the repository: https://www.covid19dataportal.org
+
+ Why did you choose this repository?
+
+I chose the repository https://www.covid19dataportal.orgLinks to an external site. for the dataset I analyzed before because it is a repository that is focused on providing datasets related to COVID-19. This makes it a relevant and reliable source for datasets on the topic of COVID-19, which is the topic of the dataset that I analyzed before.
+
+Is the repository open for data submissions from anybody, or does it have a defined collection scope?
+
+The repository is open for data submissions from anyone. It is a community-driven platform for sharing and discovering COVID-19 datasets. The repository has a defined collection scope, which is datasets related to COVID-19, including but not limited to data on cases, deaths, testing, and interventions. They also accept data from different countries, and in different languages, making it a great source of data for researchers.
+
+If the repository is open for submissions
+
+What data will the repository accept, e.g. are there any stated limits to what can be deposited? Comment on any limits related to data types (e.g. observational, simulation, etc), domain (biology, social science, etc), or file formats.
+
+The repository accepts data related to COVID-19, including data on cases, deaths, testing, and interventions. They accept data from different countries and in different languages. They accept data in various file formats, such as CSV, Excel, JSON and more. They also accept data from different domains such as biology, social science, epidemiology, and more. They do not have any stated limits related to data types, such as observational or simulation data, but the data should be related to COVID-19.
+
+What guidance does the repository provide to a potential data submitter as to what should be in the “Submission Information Package” (SIP)*?
+
+The repository provides guidance to potential data submitters on what should be included in the Submission Information Package (SIP). They recommend including information such as the title of the dataset, the authors and their affiliations, the funding sources, a brief description of the dataset, the data file(s), and a detailed readme file. They also recommend providing information on the data collection methods, and any data cleaning or pre-processing that was done.
+
+Does the repository provide any human assistance or consulting to the submitter?
+
+The repository does not provide any human assistance or consulting to the submitter, it's a self-service platform. However, they have a help center section that provides guidance on how to submit data, and how to use the platform.
+
+Does the repository require metadata to be submitted in any specific structure, or according to any specific standard?
+
+The repository does not require metadata to be submitted in any specific structure or according to any specific standard, but it is recommended that the metadata includes the title of the dataset, the authors and their affiliations, the funding sources, and a brief description of the dataset. They also recommend providing information on the data collection methods, and any data cleaning or pre-processing that was done. They recommend using Dublin Core as a standard as well.
+
+
+Examine the repository’s data access mechanisms
+Is a login required to download data? If so, what is the process for creating a login?
+
+No, a login is not required to download the data.
+
+Is more than one access mechanism provided? E.g. direct file download, database query, automated script, etc)
+
+Yes, data can be downloaded using direct file download and bulk data can be downloaded using the CDP File Downloader.
+Does the repository display metadata using any specific metadata standard?
+
+No, the repository is not using any specific metadata standard.
+
+What is included in this repository’s “Dissemination Information Package” (DIP)*?
+
+The repository does not have a DIP.
