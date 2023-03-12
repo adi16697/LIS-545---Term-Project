@@ -1,0 +1,32 @@
+﻿<resource xmlns:xsi="https://www.kaggle.com/datasets/anandhuh/latest-worldwide-vaccine-data" xmlns="https://www.kaggle.com/datasets/anandhuh/latest-worldwide-vaccine-data">
+  <identifier identifierType="URL">https://www.kaggle.com/datasets/anandhuh/latest-worldwide-vaccine-data</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Anandhu H</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en">Latest Worldwide Vaccine Data</title>
+  </titles>
+  <publisher xml:lang="en">Kaggle</publisher>
+  <publicationYear>2023</publicationYear>
+  <descriptions>
+    <description xml:lang="en" descriptionType="Abstract">Contains information on worldwide vaccine distribution and usage. The data includes information on the number of vaccine doses administered, the number of confirmed cases, deaths and recovered cases, and the population of each country. The data originates from multiple sources, including the World Health Organization (WHO) and the Centers for Disease Control and Prevention (CDC).</description>
+  </descriptions>
+  <coverage>
+    <geographicCoverage>Global</geographicCoverage>
+    <temporalCoverage>March 1, 2020 to January 18, 2023</temporalCoverage>
+  </coverage>
+  <subjects>
+    <subject xml:lang="en">COVID</subject>
+    <subject xml:lang="en">COVID-19</subject>
+    <subject xml:lang="en">COVID vaccine</subject>
+    <subject xml:lang="en">coronavirus data</subject>
+    <subject xml:lang="en">number of COVID infections</subject>
+    <subject xml:lang="en">COVID data</subject>
+  </subjects>
+  <formats>
+    <format>csv</format>
+    <format>txt</format>
+  </formats>
+</resource>
